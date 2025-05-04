@@ -27,7 +27,7 @@ ZCoder is a sophisticated web platform designed to help users track their compet
 
 2. **Clone the Repository:**
    ```sh
-   git clone https://github.com/deepakkumartripathi119/Zcoder.git
+   git clone https://github.com/abhishekjhaji2004/Zcoder
    cd zcoder
    ```
 
